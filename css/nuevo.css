@@ -1,0 +1,17 @@
+.citacion{
+    font-size: small;
+
+}
+.centrar, h2{
+text-align: center;
+
+}
+.columna{
+    display: inline-block;
+}
+.interlineadoBlog{
+    line-height: 1.5;
+}
+.autorDerecha{
+    justify-content: right;
+}
